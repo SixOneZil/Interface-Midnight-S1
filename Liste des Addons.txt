@@ -1,0 +1,86 @@
+Voici la liste de *tous* mes addons.
+
+Dans la video je présente les + important brièvement si vous voulez un apercu avant de vous lancer : https://youtu.be/ExhbsEQJb3Y
+
+Chaque addon a un rank de 1 à 4 indiquant l'importance de l'addon. 1 étant le plus important, 4 le moins important.
+
+
+# 3 - Auctionator
+Permet de vendre/acheter rapidement à l'AH et d'avoir le prix des objets sur les items.
+
+# 4 - TradeSkillMaster 
+Permet de suivre mes dépenses/achats
+
+# 4 - Home Bound
+Quelques changements of life pour le housing (je sais meme pas exactement ce qu'il fait, c'est ma meuf qui me l'a recommandé xD)
+
+# 1 - Baganator
+Combine vos sacs et transforme totalement l'affichage des objets dans les sacs en catégorie, item level, plus récent, etc. C'est le jour et la nuit.
+
+# 1 - Syndicator
+Prérequis pour que Baganator fonctionne
+
+# 2 - Handy Notes
++ dépendances pour chaque extension ("HandyNotes: Midnight" étant le plus important)
+Affiche tous les achievements, rares, secrets, trésors de métier/coffres sur la grande map. Indispensable si vous voulez 100% certains aspects du jeu, mais en général juste pratique pour avoir des infos en + sur la map.
+
+# 1 - MythicPlusTimer
+Indispensable si vous jouez en mythic +, il change l'affichage de la fenetre d'information mythic+ (les boss, le timer, les %). Elle est plus claire, plus compacte et contient plus d'information. Indispensable si vous voulez push.
+
+# 4 - BetterFishing
+Permet de lancer la canne à peche en faisant un double clic droit dans l'eau, ca m'évite un raccourci bizarre pour aller pêcher.
+
+# 2 - WeeklyKnowledge
+Vous permet de track vos points de knowledge pour vos métiers, et voir si vous avez bien eu toutes les récompenses disponibles chaque semaine. Pratique si vous voulez être au max de vos métiers.
+
+# 1 - EnhanceQoL
+Modifie plein d'aspects de l'interface pour être plus clairs, plus opti, plus rapides. Allez voir la video linkée plus haut pour quelques détails. Il y a vraiment des milliers d'options dedans. C'est avec cet addon que je rends notamment mes barres d'actions transparentes.
+/!\ cet addon est aussi capable de gérer les barres de vie, de ressource, la cible, le groupe, le raid, etc. C'est bcp moins avancé que Danders, mais pourrait tout à fait remplacer Unhalted Unit Frames si par exemple vous voudriez avoir moins d'addons.
+
+
+# 1 - Chonky Character Sheet
+Transforme totalement votre fiche personnage pour avoir toutes les infos importantes : ilvl, enchants, gemmes, et tout ce qui manquerait. Offre aussi plein de raccourcis pour votre vault, votre rating, vos tp m+, etc.
+
+# 1 - Platynator
+Affichage beaucoup plus clean des barres de vies des ennemis, et addon bcp plus simple et facile à prendre en main que Plater. Plater ira bcp + en profondeur et sera 100% plus customisable. Platynator fait 95% du taff pour 10x moins d'effort donc je l'essaie cette saison (et il est vraiment OK)
+
+# 3 - Glider
+Affiche votre ressource de SkyRiding (dragon riding), le petit fromage bleu au milieu de l'écran pour track votre vigueur.
+
+# 2 - UnhaltedUnitFrames
+Améliore l'affichage de votre barre de vie (Player Frame), de votre cible (target frame), focus frame, cast bar, trinkets, racials, etc. EnhanceQoL peut aussi le faire mais un peu moins customisable, bien qu'il sera + simple. UUF donne bcp + de controle mais est moins digeste
+
+# 4 - Account Played
+Calcule le temps total de jeu sur tous vos persos
+
+# 2 - BigWigs + LittleWigs
+Gère les alertes/timers des boss en raid et donjon. La customisation est meilleure que le jeu de base et vous permet de mettre certaines alertes à différents niveau d'importance pour des abilités spécifiques que vous voudriez pouvoir track en raid, poru votre role spécifique. Très pratique par exemple quand vous voulez un compte à rebours ou un message + visible pour une mécanique ou vous avez du mal, sans devoir mettre toutes les autres mécaniques en avant.
+
+# 1 - DandersFrames
+Addon de party frames, j'ai toute une video à ce sujet ici : https://youtu.be/5lS67-dHquQ
+
+Indispensable si vous voulez heal et être un minimum compétitif. Totalement optionnel si vous êtes tank ou DPS. A défaut d'être bien configurable, il n'est pas parfait pour autant. Aujourd'hui c'est ce qu'il y a de mieux. J'attends Cell avec impatience.
+
+# 3 - Details
+Affiche les données de combat avec + de profondeur que le damage meter du jeu de base. Si vous cherchez juste à voir votre DPS/HPS le jeu de base est suffisant. Details permet d'avoir une séparation par pull et de track certains éléments un peu mieux, mais les limitations de midnight on sévèrement réduit son utilité
+
+# 4 - Gather Ledger (requiert Auctionator ou TSM)
+Permet de lancer une session de farm et de mesurer le gold/h et gold total fait sur une session.
+
+# 3 - Mythic Dungeon Tools
+Indispensable pour push en M+, inutile si vous voulez juste faire vos weekly 12. Il contient tous les détails de chaque mob, chaque patrouille, de chaque donjon, et la possibilité de planifier votre route et vos %.
+
+# 2 - Plumber 
+Plein de petites modifications pour rendre l'interface plus clean mais surtout, plus belle. Un peu la meme vibe que EnhanceQoL avec un focus sur le design.
+
+# 3 - Raider.io
+Affiche les données de raid/M+ des gens qui apply à votre groupe m+, et dans le tooltip quand vous cliquez sur un joueur. Vous permet d'avoir une idée de leur progres actuel en pve.
+
+# 3 - RareScanner
+Sonne une alerte quand un rare est proche de vous, très pratique si vous cherchez à drop les montures qui drop dessus (ou faire les achievements liés aux rares), sinon inutile
+
+# 2 - SimulationCraft
+Permet (aux DPS principalement) de générer un profil de tout votre équipement afin d'aller lancer une simulation pour optimiser au maximum votre équipement (quelle pièce équiper parmi tous ce que vous avez, ou se trouve la piece de stuff qui vous apporte le meilleur up, quel boss drop qui qui est opti pour vous, etc.) Assez pratique quand vous hésitez entre plusieurs pièces ou pour votre weekly vault.
+
+
+
