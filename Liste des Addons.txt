@@ -24,7 +24,7 @@ Prérequis pour que Baganator fonctionne
 + dépendances pour chaque extension ("HandyNotes: Midnight" étant le plus important)
 Affiche tous les achievements, rares, secrets, trésors de métier/coffres sur la grande map. Indispensable si vous voulez 100% certains aspects du jeu, mais en général juste pratique pour avoir des infos en + sur la map.
 
-# 1 - MythicPlusTimer
+# 1 - MPlusTimer
 Indispensable si vous jouez en mythic +, il change l'affichage de la fenetre d'information mythic+ (les boss, le timer, les %). Elle est plus claire, plus compacte et contient plus d'information. Indispensable si vous voulez push.
 
 # 4 - BetterFishing
