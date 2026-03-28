@@ -56,7 +56,7 @@ Calcule le temps total de jeu sur tous vos persos
 # 2 - BigWigs + LittleWigs
 Gère les alertes/timers des boss en raid et donjon. La customisation est meilleure que le jeu de base et vous permet de mettre certaines alertes à différents niveau d'importance pour des abilités spécifiques que vous voudriez pouvoir track en raid, poru votre role spécifique. Très pratique par exemple quand vous voulez un compte à rebours ou un message + visible pour une mécanique ou vous avez du mal, sans devoir mettre toutes les autres mécaniques en avant.
 
-# 1 - DandersFrames
+# 1 - Danders Frames
 Addon de party frames, j'ai toute une video à ce sujet ici : https://youtu.be/5lS67-dHquQ
 
 Indispensable si vous voulez heal et être un minimum compétitif. Totalement optionnel si vous êtes tank ou DPS. A défaut d'être bien configurable, il n'est pas parfait pour autant. Aujourd'hui c'est ce qu'il y a de mieux. J'attends Cell avec impatience.
@@ -83,4 +83,8 @@ Sonne une alerte quand un rare est proche de vous, très pratique si vous cherch
 Permet (aux DPS principalement) de générer un profil de tout votre équipement afin d'aller lancer une simulation pour optimiser au maximum votre équipement (quelle pièce équiper parmi tous ce que vous avez, ou se trouve la piece de stuff qui vous apporte le meilleur up, quel boss drop qui qui est opti pour vous, etc.) Assez pratique quand vous hésitez entre plusieurs pièces ou pour votre weekly vault.
 
 
+# 1 - EllesmereUI
+
+Une suite d'addons qui remplace Platynator, BetterCooldownManager et Unhalted Unit Frames (+ leurs dépendances).
+C'est l'interface que j'utilise depuis le 29 mars 2026 (si vous avez pris le profil avant vous n'avez donc pas tout ça) pour tester un peu autre chose.
 
